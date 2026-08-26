@@ -1,5 +1,7 @@
 # Evaluator-Optimizer Workflow
 
+> 강사와 함께 1차 초안, 평가 피드백, 수정 결과, 반복 한도 도달을 순서대로 확인하는 공통 실습입니다.
+
 ```text
 요구사항 → Generator 초안 → Evaluator 검사
                               ├─ pass → 완료
