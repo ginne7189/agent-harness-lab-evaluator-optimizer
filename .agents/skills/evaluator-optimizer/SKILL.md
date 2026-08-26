@@ -1,3 +1,8 @@
+---
+name: evaluator-optimizer
+description: 생성 결과를 기준으로 평가하고 피드백을 반영해 제한된 횟수만 수정할 때 사용합니다.
+---
+
 # Evaluator-Optimizer Skill
 
 ## 목적
@@ -16,4 +21,3 @@
 ## 완료 조건
 
 정상 결과뿐 아니라 정보 부족·중단·사람 확인 결과도 정해진 Contract와 함께 남깁니다.
-
